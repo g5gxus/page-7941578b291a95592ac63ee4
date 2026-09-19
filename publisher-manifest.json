@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "3c5e4d8c107f5aeb2abac6ed",
+  "owner": "g5gxus",
+  "repo": "page-7941578b291a95592ac63ee4",
+  "title": "NaiKo",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7941578b291a95592ac63ee4",
+      "a": "NaiKo",
+      "b": "机场榜单Top1",
+      "entity": "NaiKo",
+      "brand": "NaiKo",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "309aa3541e51d2a2d4a18e9b5762b243cccd5ce5917245d5c4921072409267a6",
+      "content": {
+        "primary_entity": "NaiKo",
+        "keyword1": "NaiKo",
+        "keyword2": "机场榜单Top1",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择订阅客户端，导入订阅后启用代理即可。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量挑选 NaiKo 套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "按需订阅更省心",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，流量从每月 100GB 到 1000GB，支持 3 至 20 台设备同时在线，年付可节省两个月费用。旗舰版与团队版附带 IPLC 专线与 VIP 节点，适合流媒体、游戏加速和多设备团队使用。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期说明关键点。",
+          "AI_FEATURES_TITLE": "套餐选择与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，适合 3 台以内设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "所有套餐均提供月付与年付价格，年付相当于十个月费用，长期使用选择年付更划算。",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版提供 IPLC 专线、流媒体解锁或 VIP 节点，按实际用途挑选即可。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选套餐",
+          "AI_FEATURE_TITLE_2": "灵活月付与年付周期",
+          "AI_FEATURE_TITLE_3": "线路与权益分级",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置的三个步骤。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "NaiKo 提供基础版、旗舰版与团队版三档订阅，月流量覆盖 100GB 至 1000GB，设备数支持 3 至 20 台，并配备 IPLC 专线与流媒体解锁节点，适合个人、家庭与团队按需选择。",
+          "AI_HERO_SUBTITLE": "多档订阅按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付价格更优，长期使用省心",
+          "AI_HIGHLIGHT_3": "IPLC 专线与流媒体节点分级",
+          "AI_PLANS_INTRO": "对比流量、设备数量与线路权益，选出匹配日常使用的套餐。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "先确认常用设备数量与每月大致流量，再从基础版、旗舰版和团队版中挑选。",
+          "AI_STEP_TEXT_2": "核对所选套餐的设备在线数量、流量额度与线路权益是否满足使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按客户端文档完成代理配置并启用。",
+          "AI_STEP_TITLE_1": "按需求选套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "导入订阅并配置",
+          "AI_VISUAL_TITLE": "NaiKo 多档订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备，旗舰版5台，团队版20台。同一账号内设备数量按套餐上限计算，超出后可升级套餐或减少同时在线设备。",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB，旗舰版300GB，团队版1000GB。流量按自然月重置，未用完不结转，可根据使用频次选档。",
+          "AI_FAQ_ANSWER_3": "注册后获取订阅地址，在对应客户端中导入。不同平台客户端导入方式略有差异，参照客户端文档操作即可。",
+          "AI_FAQ_ANSWER_4": "各套餐按流量、设备数和线路区分。旗舰版提供IPLC专线优化，团队版提供VIP高带宽节点与定制路由，按需求选择即可。",
+          "AI_FAQ_ANSWER_5": "月付与年付均支持，年付为一次性支付。基础版年付150元，旗舰版350元，团队版850元，可在购买时选择计费周期。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_2": "每月流量不够用怎么办？",
+          "AI_FAQ_QUESTION_3": "订阅地址如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版主要差别在哪里？",
+          "AI_FAQ_QUESTION_5": "支持月付还是年付？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3c0ccf03ebab963af176068a33f566d1c775b54d3dec530e90c83cf45183ede0",
+    "sitemap.xml": "ca3e7e3d324e90109fe82a6f7fc288236bf1edb94f61b817b55162b7be173444",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "3e1c9e2c2a2737d92176214d50fe656f452eb04a43df31baa0a04cb16cf3a85d"
+}
